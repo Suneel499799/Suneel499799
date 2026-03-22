@@ -30,10 +30,6 @@
   </tr>
 </table>
 
-<p align="center">
-  <img src="https://github.com/Sujithts12/Sujithts12/blob/main/portfolio.jpeg" alt="Banner" width="100%" />
-</p>
-
 ### 🔥 About Me
 
 🪷I’m a down-to-earth professional who believes in karma, faith, and respecting people and perspectives. I strive to bring honesty, discipline, and a positive mindset into both my work and everyday life, while continuously learning and growing in the field of Business Intelligence
@@ -56,7 +52,6 @@ Currently working at 🏦 HCL Technologis 📍Chennai,Tamilnadu for Client Becto
 ***
 ### 🔧 Skills & Tools  
 
-
 <table>
   <tr>
     <td align="center">
@@ -67,10 +62,6 @@ Currently working at 🏦 HCL Technologis 📍Chennai,Tamilnadu for Client Becto
       <img src="https://img.icons8.com/color/96/oracle-logo.png" width="50"/><br>
       <sub>Oracle SQL</sub>
     </td>
-    <td align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/63/Databricks_Logo.png" width="50"/><br>
-  <sub>Azure Databricks</sub>
-   </td>
     <td align="center">
       <img src="https://img.icons8.com/color/96/microsoft-excel-2019.png" width="50"/><br>
       <sub>Excel</sub>
@@ -102,7 +93,7 @@ Currently working at 🏦 HCL Technologis 📍Chennai,Tamilnadu for Client Becto
   <a href="mailto:sunilvsk53@gmail.com">
     <img src="https://img.shields.io/badge/Email-D83A56?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/sujith-siddarth-514830208">
+  <a href="[https://linkedin.com/in/sujith-siddarth-514830208](https://www.linkedin.com/in/suneel-kumar-reddy-0745183b3?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 <div align="center">
