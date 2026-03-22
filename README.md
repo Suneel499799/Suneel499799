@@ -20,7 +20,7 @@
     </td>
     <td align="right" width="35%">
       <img 
-        src="https://github.com/Sujithts12/Sujithts12/blob/main/IMG_20260119_143204.jpg"
+        src="https://github.com/Suneel499799/Suneel499799/blob/main/Suneel_kumar_pic.jpeg"
         alt="Sujith Siddarth"
         width="250"
         height="300"
