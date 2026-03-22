@@ -93,7 +93,7 @@ Currently working at 🏦 HCL Technologis 📍Chennai,Tamilnadu for Client Becto
   <a href="mailto:sunilvsk53@gmail.com">
     <img src="https://img.shields.io/badge/Email-D83A56?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="[https://linkedin.com/in/sujith-siddarth-514830208](https://www.linkedin.com/in/suneel-kumar-reddy-0745183b3?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)">
+  <a href="[[https://linkedin.com/in/sujith-siddarth-514830208](https://www.linkedin.com/in/suneel-kumar-reddy-0745183b3?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)](https://www.linkedin.com/in/suneel-kumar-reddy-0745183b3?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 <div align="center">
