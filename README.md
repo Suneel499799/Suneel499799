@@ -9,7 +9,7 @@
         📍 <b>Native:</b> Kadapa, Andrapradesh <br/>
         🌿 <b>Currently in:</b> Hyderabad<br/>
         💼 <b>Business Intelligence</b> & Data Analytics <br/>
-        🎨 <b>All Rounder</b> Cricket 🏏 
+        🏏 <b>All Rounder</b> Cricket 🏏 
       </p>
       <p>
         <img src="https://img.shields.io/badge/Power%20BI-Developer-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
