@@ -32,7 +32,7 @@
 
 ### 🔥 About Me
 
-🪷I’m a down-to-earth professional who believes in karma, faith, and respecting people and perspectives. I strive to bring honesty, discipline, and a positive mindset into both my work and everyday life, while continuously learning and growing in the field of Business Intelligence
+I am passionate about learning new technologies, improving data storytelling, and delivering impactful business solutions. I am actively seeking opportunities where I can leverage my skills in Power BI, SQL, and data analytics to contribute to organizational growth
 <p align="center">
   
   ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F2C811&center=true&vCenter=true&width=700&lines=Power+BI📖+%7C+Developer+In🗽+%7C+Acion+🤝)
@@ -48,7 +48,7 @@ Currently working at 🏦 HCL Technologis 📍Chennai,Tamilnadu for Client Becto
 ***
 ### 🏆 Awards & Recognitions  
 
-- **🥉 Microsoft Certified 3x** - DP-600, PL-300 & DP-900 Associate. 
+- **🥉 Microsoft Certified PL-300 Power BI Data Analyst Associate** 
 ***
 ### 🔧 Skills & Tools  
 
