@@ -6,7 +6,7 @@
       <h3>🌍 Background</h3>
       <p>
         🇮🇳<br/>
-        📍 <b>Native:</b> Kadapa, Andrapradesh <br/>
+        📍 <b>Native:</b> Kadapa, Andhra Pradesh <br/>
         🌿 <b>Currently in:</b> Hyderabad<br/>
         💼 <b>Business Intelligence</b> & Data Analytics <br/>
         🏏 <b>All Rounder</b> Cricket 🏏 
