@@ -94,33 +94,17 @@ Currently working at 🏦 HCL Technologis 📍Chennai,Tamilnadu for Client Becto
 ***
 
 ### 🌐 Connect with Me  
-</p>
-<p align="center">
-  
-  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=✨Lets+turn+data+into+impactful+stories✨)
 
-
-- 📧 **Email**: sujithsiddarth243@gmail.com  
-- 📱 **Mobile**: +91-9480562681
+- 📧 **Email**: sunilvsk53@gmail.com  
+- 📱 **Mobile**: +91-8184810776
 
 <p align="center">
-  <a href="mailto:sujithsiddarth243@gmail.com">
+  <a href="mailto:sunilvsk53@gmail.com">
     <img src="https://img.shields.io/badge/Email-D83A56?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/sujith-siddarth-514830208">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://sujith-ts-ze7eymc.gamma.site/">
-    <img src="https://img.shields.io/badge/Portfolio-FFDD00?style=for-the-badge&logo=github&logoColor=black" />
-  </a>
-<a href="https://sujithts12.github.io/Acrylic_Paintings_Sujith_TS/">
-    <img src="https://img.shields.io/badge/Art Works-FFDD00?style=for-the-badge&logo=github&logoColor=black" />
-  </a>
-  <a href="https://www.instagram.com/___sujith_siddarth_?igsh=MW96aDY1eTg1cHBjaQ==">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-
-
 <div align="center">
 
 <br>
