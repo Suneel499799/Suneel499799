@@ -13,8 +13,8 @@
       </p>
       <p>
         <img src="https://img.shields.io/badge/Power%20BI-Developer-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
-        <img src="https://img.shields.io/badge/Health-Care-Domain0A66C2?style=flat-square"/>
         <img src="https://img.shields.io/badge/HCL-Tech-green?style=flat-square"/>
+         <img src="https://img.shields.io/badge/Health-Care-Domain0A66C2?style=flat-square"/>
         <img src="https://img.shields.io/badge/Becton--Dickinson-grey?style=flat-square"/>
       </p>
     </td>
