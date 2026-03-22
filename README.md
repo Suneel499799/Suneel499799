@@ -88,7 +88,16 @@ Currently working at 🏦 HCL Technologis 📍Chennai,Tamilnadu for Client Becto
 
 - 📧 **Email**: sunilvsk53@gmail.com  
 - 📱 **Mobile**: +91-8184810776
+<h2 align="center">Connect with Me</h2>
 
+<p align="center">
+  <a href="mailto:sunilvsk53@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D83A56?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/suneel-kumar-reddy-0745183b3">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 <p align="center">
   <a href="mailto:sunilvsk53@gmail.com">
     <img src="https://img.shields.io/badge/Email-D83A56?style=for-the-badge&logo=gmail&logoColor=white" />
