@@ -15,7 +15,7 @@
         <img src="https://img.shields.io/badge/Power%20BI-Developer-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
         <img src="https://img.shields.io/badge/Health-Care-Domain-0A66C2?style=flat-square"/>
         <img src="https://img.shields.io/badge/HCL-Tech-green?style=flat-square"/>
-        <img src="https://img.shields.io/badge/Becton--Dickin-songrey?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Becton--Dickinson-grey?style=flat-square"/>
       </p>
     </td>
     <td align="right" width="35%">
@@ -39,7 +39,7 @@
 🪷I’m a down-to-earth professional who believes in karma, faith, and respecting people and perspectives. I strive to bring honesty, discipline, and a positive mindset into both my work and everyday life, while continuously learning and growing in the field of Business Intelligence
 <p align="center">
   
-  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F2C811&center=true&vCenter=true&width=700&lines=Always+Learning📖+%7C+Always+Building🗽+%7C+Always+Sharing🤝)
+  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F2C811&center=true&vCenter=true&width=700&lines=Power+BI📖+%7C+Developer+In🗽+%7C+Acion+🤝)
 
 </p>
 <p align="center">
@@ -47,20 +47,12 @@
 ***
 ### 💼 Work Experience  
 
-Currently working at 🏦 Lloyds Technology Centre (LTC)📍Hyderabad,Telangana a Global Capability Centre (GCC) of Lloyds Banking Group.
-
-Previously worked at
-Tata Consultancy Services (TCS) from 
-Dec 2021 – Jan 2026📍Bangalore Karnataka.
+Currently working at 🏦 HCL Technologis 📍Chennai,Tamilnadu for Client Becton Dickinson.
 
 ***
 ### 🏆 Awards & Recognitions  
 
 - **🥉 Microsoft Certified 3x** - DP-600, PL-300 & DP-900 Associate. 
-- **🎖️Contextual Master** – Recognized at Tata Consultancy Services  
-- **🥇Star of the Month** – Awarded at Tata Play Limited  
-- **🥈Special Initiative Award** – Awarded at Tata Play Limited
-
 ***
 ### 🔧 Skills & Tools  
 
@@ -79,10 +71,6 @@ Dec 2021 – Jan 2026📍Bangalore Karnataka.
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/63/Databricks_Logo.png" width="50"/><br>
   <sub>Azure Databricks</sub>
    </td>
-    <td align="center">
-      <img src="https://cdn.simpleicons.org/snowflake/29B5E8" width="50"/><br>
-      <sub>Snowflake</sub>
-    </td>
     <td align="center">
       <img src="https://img.icons8.com/color/96/microsoft-excel-2019.png" width="50"/><br>
       <sub>Excel</sub>
@@ -104,18 +92,7 @@ Dec 2021 – Jan 2026📍Bangalore Karnataka.
 - **Power Automate**: Automated cloud flow
 
 ***
-### 📂 Featured Projects   
 
-| 💼 **Project** | 📝 **Description** | 🔗 **Link** |
-|----------------|-------------------|-------------|
-| **Power_BI_HR_Analytics_Dashboard** | Interactive HR Analytics Dashboard built using Power BI, aimed at visualizing key HR metrics using a dummy dataset. | [View Project](https://github.com/Sujithts12/Power_BI_HR_Analytics_Dashboard) |
-| **Fitness** | Power BI dashboard managing fitness center operations – memberships, revenue, trainer allocation, and client behavior tracking. | [View Project](https://github.com/Sujithts12/Fitness) |
-| **Sales_Analysis_Performance_USA** | Dynamic Sales Analysis Dashboard providing insights into performance across categories, time periods, and locations. | [View Project](https://github.com/Sujithts12/Sales_Analysis_Performance_USA) |
-| **Finance_KPI_Dashboard_2023_2024** | Financial KPI Dashboard showing Total Sales Actual vs Target, Variance, Monthly Targets, and Team Performance metrics. | [View Project](https://github.com/Sujithts12/Finance_KPI_Dashboard_2023_2024) |
-| **PowerBI_Python_Transformations_sentiment_analysis** | Python + Power BI project analyzing customer feedback to identify Positive, Negative, and Neutral sentiments using sentiment analysis. | [View Project](https://github.com/Sujithts12/PowerBI_Python_Transformations_sentiment_analysis) |
-| **Power_BI_Bike_sales** | Interactive Power BI dashboard analyzing bike sales trends, resale value, and mileage across Indian manufacturers. | [View Project](https://github.com/Sujithts12/Power_BI_Bike_sales) |
-
-***
 ### 🌐 Connect with Me  
 </p>
 <p align="center">
